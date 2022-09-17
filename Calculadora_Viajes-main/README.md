@@ -1,0 +1,2 @@
+Programa elaborado en el lenguaje de programación **R**, dicho programa permite calcular los gastos totales de los viajes hechos por una persona en un día, ademas permite calcular la cantidad de dinero ahorrado si compartiera el viaje con más de una persona.   
+También se gráfica los resultados comparando lo ahorrado con las cantidad de personas que hicieron el viaje.
